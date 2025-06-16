@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Narrative SQL*](https://www.link.springer.com/book/10.1007/979-8-8688-1560-7) by Hamed Tabrizchi (Apress, 2025).
+This repository accompanies [*Narrative SQL*]([https://www.link.springer.com/book/10.1007/979-8-8688-1560-7](https://link.springer.com/book/9798868815591)) by Hamed Tabrizchi (Apress, 2025).
 
 [comment]: #cover
 ![Cover image](979-8-8688-1559-1.jpg)
